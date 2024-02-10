@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = '¡Te jamo Gaby 💖! Eres la mejor ';
+    document.getElementById('messageContainer').innerHTML = '¡Te jamo Gaby 💖! Eres la mejor , me encantas :3';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
